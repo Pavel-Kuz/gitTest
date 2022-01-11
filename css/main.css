@@ -16,6 +16,7 @@ body{
 h1{
     font-size: 50px;
     color: green;
+    /* просто коммент */
 }
 p{
     font-size: 30px;
