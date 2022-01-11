@@ -1,6 +1,18 @@
 body{
     background: #ccc;
 }
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+.header{
+    padding: 10px 20px;
+}
+.header .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 h1{
     font-size: 50px;
     color: green;
